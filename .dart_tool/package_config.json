@@ -93,9 +93,9 @@
     },
     {
       "name": "js",
-      "rootUri": "file:///C:/Users/Asus/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.7.1",
+      "rootUri": "file:///C:/Users/Asus/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.7.2",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.7"
     },
     {
       "name": "logging",
@@ -290,10 +290,10 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-04-01T08:19:40.481910Z",
+  "generated": "2025-04-06T12:11:05.071653Z",
   "generator": "pub",
-  "generatorVersion": "3.6.1",
+  "generatorVersion": "3.7.2",
   "flutterRoot": "file:///C:/flutter",
-  "flutterVersion": "3.27.3",
+  "flutterVersion": "3.29.2",
   "pubCache": "file:///C:/Users/Asus/AppData/Local/Pub/Cache"
 }
